@@ -1,5 +1,5 @@
 (() => {
-  const origin = 'https://therishithakor.com/';
+  const origin = 'https://rajpandey.com/';
   const routeFiles = {
     'web-developer': 'Web_development.html',
     'app-developer': 'App_development.html',
